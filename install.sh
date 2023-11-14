@@ -1,1 +1,1 @@
-soruce scripts/bashrc.sh
+source scripts/bashrc.sh
